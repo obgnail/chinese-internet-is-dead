@@ -508,7 +508,6 @@ title/- 趣领域/
 *://*.ksos2x.news/*
 *://*.nt3u.life/*
 *://*.88files.net/*
-*://*.80.125/*
 *://*.gfys02.site/*
 *://*.gscsds.org/*
 *://*.qe1d.life/*
@@ -802,7 +801,6 @@ title/- 趣领域/
 *://*.xcqwin.com/*
 *://*.hjfuli.com/*
 *://*.ls7.xyz/*
-*://*.134.122/*
 *://*.youfuli3.com/*
 *://*.hzfl.xyz/*
 *://*.jileshe.pro/*
@@ -1193,7 +1191,6 @@ title/- 趣领域/
 *://*.zhaitus.com/*
 *://*.mztyx.com/*
 *://*.maololi.com/*
-*://*.133.253/*
 *://*.ktx369.com/*
 *://*.comeqp.com/*
 *://*.imankatolik.com/*
@@ -4137,3 +4134,12 @@ title/- 趣领域/
 *://*.iesdouyin.com/*
 *://*.machbbs.com/*
 *://m.sohu.com/*
+*://*.cijiyun.com/*
+*://*.b5ytv.com/*
+*://*.rrrenviro.com/*
+*://*.sydcapodcast.com/*
+*://*.lkvlk.com/*
+*://*.okxxxok.com/*
+*://*.webhek.com/*
+*://*.yayashenghuo.com/*
+*://*.leshetu.org/*
