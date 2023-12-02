@@ -41,6 +41,7 @@ title/- Titi 社/
 title/- icoser/
 title/- illusion中国/
 title/- i社游戏/
+title/- i 社游戏/
 title/- 133游戏仓库/
 title/- 七七分享网/
 title/- CoserMis/
@@ -108,6 +109,8 @@ title/- 学姐资源网/
 title/- 美图cos分享站/
 title/- 胖次猫自习室/
 title/- 猎刀手文章集合/
+title/- 我為人人人人為我/
+title/- 我为人人人人为我/
 
 title/- 睡海棠/
 title/- 丝轩园/
@@ -4143,3 +4146,38 @@ title/- 趣领域/
 *://*.webhek.com/*
 *://*.yayashenghuo.com/*
 *://*.leshetu.org/*
+*://*.anxz.com/*
+*://*.koudaiacg.com/*
+*://*.flyingacg.com/*
+*://*.tommytimes.com/*
+*://*.2dh02.net/*
+*://*.ttmhzx.com/*
+*://*.comoe.cc/*
+*://*.utgd.net/*
+*://*.w3xue.com/*
+*://*.fxacg.cc/*
+*://*.loliwa.com/*
+*://*.clickme.net/*
+*://*.215soft.com/*
+*://*.isyxw.com/*
+*://*.mmacgg.com/*
+*://*.qxacgg.com/*
+*://*.1069x.ru/*
+*://*.aisescg.com/*
+*://*.avlangb.com/*
+*://*.sourcecvs.com/*
+*://*.3zjc.com/*
+*://*.mwmoe.shop/*
+*://*.acgth.com/*
+*://*.hgalgamemaster.top/*
+*://*.sekaiowari.com/*
+*://*.bkv0.com/*
+*://*.7dfly.com/*
+*://*.acgles.com/*
+*://*.cgame77.com/*
+*://*.xitongxia.net/*
+*://*.vujie.com/*
+*://*.acgsx.com/*
+*://*.hualingacg.com/*
+*://*.5dmcity.me/*
+*://*.acgxq.com/*
