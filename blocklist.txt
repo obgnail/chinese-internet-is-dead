@@ -4181,3 +4181,6 @@ title/- 趣领域/
 *://*.hualingacg.com/*
 *://*.5dmcity.me/*
 *://*.acgxq.com/*
+*://*.bqacg.com/*
+*://*.nganm.com/*
+*://*.zhihuashe.com/*
