@@ -4184,3 +4184,10 @@ title/- 趣领域/
 *://*.bqacg.com/*
 *://*.nganm.com/*
 *://*.zhihuashe.com/*
+*://*.retwyia.com/*
+*://*.iseacg.com/*
+*://*.tyacgg.com/*
+*://*.cbacg.com/*
+*://*.alacgg.com/*
+*://*.yzwy.cc/*
+*://*.78acggo.com/*
