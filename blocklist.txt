@@ -4208,3 +4208,14 @@ title/- 趣领域/
 *://*.cypmhw.com/*
 *://*.mhttmh.com/*
 *://*.coder100.com/*
+*://*.feiku6.com/*
+*://*.mhbili.com/*
+*://*.laoxiumh.com/*
+*://*.mhbaba.com/*
+*://*.izkzk.com/*
+*://*.manhuade.com/*
+*://*.kiki-pic.com/*
+*://*.vzyclub.com/*
+*://*.ijkxs.com/*
+*://*.shuiyinyun.com/*
+*://*.xflnrmg.com/*
