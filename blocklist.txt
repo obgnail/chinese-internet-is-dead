@@ -4219,3 +4219,5 @@ title/- 趣领域/
 *://*.ijkxs.com/*
 *://*.shuiyinyun.com/*
 *://*.xflnrmg.com/*
+*://*.ymnme.com/*
+*://*.tgbus.com/*
