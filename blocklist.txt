@@ -4221,3 +4221,8 @@ title/- 趣领域/
 *://*.xflnrmg.com/*
 *://*.ymnme.com/*
 *://*.tgbus.com/*
+*://*.zixuephp.com/*
+*://*.yinghuam3u8.com/*
+*://*.chinaaopai.com/*
+*://*.zc365.com/*
+*://*.yebaotv.com/*
