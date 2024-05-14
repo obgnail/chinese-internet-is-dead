@@ -57,6 +57,7 @@ title/- 福利/
 title/- 绝社/
 title/- 丝腿/
 
+title/- 猫酷次元/
 title/- 绅士次元/
 title/- 咿呜ACG/
 title/- 浅忆ACG/
@@ -106,12 +107,14 @@ title/- 探路资源网/
 title/- 人间水蜜桃/
 title/- 皮皮动漫社/
 title/- 学姐资源网/
+title/- 热舞集合地/
 title/- 美图cos分享站/
 title/- 胖次猫自习室/
 title/- 猎刀手文章集合/
 title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
+title/- 死宅屋/
 title/- 睡海棠/
 title/- 丝轩园/
 title/- 乐摄图/
@@ -4226,3 +4229,63 @@ title/- 趣领域/
 *://*.chinaaopai.com/*
 *://*.zc365.com/*
 *://*.yebaotv.com/*
+*://*.aptoide.com/*
+*://*.xzmiao.com/*
+*://*.capcut.com/*
+*://*.fairy.tw/*
+*://*.skin.gs/*
+*://*.88toku.com/*
+*://*.cos6.net/*
+*://*.jiaojiaogeacg.com/*
+*://*.jwfxs.com/*
+*://*.9-9bis.com/*
+*://*.mmsto.com/*
+*://m.jb51.net/*
+*://*.91av.one/*
+*://107.151.184.12/*
+*://*.molicyba01.com/*
+*://*.qing-lou.com/*
+*://*.ccasmr.top/*
+*://*.asmr66.xyz/*
+*://*.17asmr.org/*
+*://*.duodaasmr.com/*
+*://*.asmrpa.xyz/*
+*://*.asmrts.com/*
+*://*.nj9.net/*
+*://*.nz4.net/*
+*://*.xiannvshe.com/*
+*://*.leyaotu.com/*
+*://*.ymn5.com/*
+*://*.acg149.xyz/*
+*://*.78acgngo.com/*
+*://*.562duob.com/*
+*://*.zfsya.com/*
+*://*.tgogo.net/*
+*://*.thekinnaurtaxioperatorsunion.com/*
+*://*.ubclbs1.com/*
+*://*.eqpp.net/*
+*://*.nolascape.org/*
+*://*.idea-kenchiku.com/*
+*://*.528guakao.com/*
+*://*.catchthis.net/*
+*://*.ag7692.com/*
+*://*.ks883.com/*
+*://*.bcr1.com/*
+*://*.wvclimbing.com/*
+*://*.deanesmachines.com/*
+*://*.zdjsg.com/*
+*://*.rvrguide.com/*
+*://*.escuae.org/*
+*://*.tireloc.com/*
+*://*.etcri.com/*
+*://146.19.24.47/*
+*://*.qianduanheidong.com/*
+*://*.dajiaoxing.vip/*
+*://*.xianshivip.com/*
+*://*.ccnn666.com/*
+*://*.acgyux.com/*
+*://*.acgames.cc/*
+*://*.8090yx.com/*
+*://*.kpwx.net/*
+*://*.yxaihao.com/*
+*://*.517sou.com/*
