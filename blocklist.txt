@@ -12,6 +12,7 @@ title/– 黑色猫/
 title/– 御宅物语/
 title/– coser女孩/
 title/– 鹿奈次元/
+title/– 猫酷次元/
 
 title/-火图集/
 title/-萌物语/
@@ -57,7 +58,9 @@ title/- 福利/
 title/- 绝社/
 title/- 丝腿/
 
+title/- 爱微社区/
 title/- 猫酷次元/
+title/- 猫酷视频/
 title/- 绅士次元/
 title/- 咿呜ACG/
 title/- 浅忆ACG/
@@ -114,6 +117,7 @@ title/- 猎刀手文章集合/
 title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
+title/- 欧房间/
 title/- 死宅屋/
 title/- 睡海棠/
 title/- 丝轩园/
@@ -4318,3 +4322,48 @@ title/- 趣领域/
 *://*.hifi15.com/*
 *://*.29xf.com/*
 *://*.5nd.com/*
+*://*.dandancyacgba.com/*
+*://*.ssjx666.net/*
+*://*.jioya.net/*
+*://*.xiaolu.pro/*
+*://*.flb119.com/*
+*://*.modelfun666.com/*
+*://*.sslong01.com/*
+*://*.xiu07.com/*
+*://*.gg12.co/*
+*://*.xiaolufx.com/*
+*://*.pppiiippp.xyz/*
+*://*.fanigou.com/*
+*://*.115ed2k.com/*
+*://*.isizhaiwu.me/*
+*://*.exportpro.net/*
+*://*.yisu.com/*
+*://*.dy1905.net/*
+*://*.llsl.cc/*
+*://*.wrayy.com/*
+*://*.pxxacg.com/*
+*://*.is2cy.com/*
+*://*.xqacg.com/*
+*://*.acgsu.org/*
+*://*.qimiao02.com/*
+*://*.lolii.org/*
+*://*.ecytt.com/*
+*://*.zhaitusenlin.com/*
+*://*.yitushe.vip/*
+*://*.feimaoyun.net/*
+*://*.0-p.net/*
+*://*.mmgirl.com.cn/*
+*://*.00cos.com/*
+*://*.acgtang.vip/*
+*://*.cosercc.com/*
+*://*.ziyuankong.cc/*
+*://*.fulisc.com/*
+*://*.aibozhu.com/*
+*://*.zhaiuu.com/*
+*://*.costu01.com/*
+*://*.xiusn.com/*
+*://*.wqj01.com/*
+*://*.shenyuciyuan.com/*
+*://*.haooyuan.com/*
+*://*.gegetu.com/*
+*://*.yixun01.com/*
