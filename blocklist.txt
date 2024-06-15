@@ -58,6 +58,7 @@ title/- 福利/
 title/- 绝社/
 title/- 丝腿/
 
+title/- 鹿头次元/
 title/- 爱微社区/
 title/- 猫酷次元/
 title/- 猫酷视频/
@@ -4407,3 +4408,16 @@ title/- 趣领域/
 *://*.greenxiazai.com/*
 *://*.lifek.com/*
 *://*.zhlizi.com/*
+*://*.cdcxhl.com/*
+*://*.thenounproject.com/*
+*://*.100sucai.com/*
+*://*.livekong.com/*
+*://*.youzaiwu.com/*
+*://*.vpsche.com/*
+*://156.251.140.196/*
+*://*.havingmyownwebsite.net/*
+*://*.senxi123.com/*
+*://*.heimaee.com/*
+*://*.naiquan.org/*
+*://*.fld119.com/*
+*://128.1.132.183/*
