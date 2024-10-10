@@ -1,3 +1,9 @@
+## 简介
+
+**零误伤的黑名单列表**。列表中的网站都是我亲手点进去，确定是垃圾网站后加上去的。已经维护好几年了，零误伤。
+
+
+
 ## 使用方法
 
 需要搭配浏览器插件，我目前使用的是开源的 [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)。

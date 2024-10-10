@@ -14,12 +14,14 @@ title/– coser女孩/
 title/– 鹿奈次元/
 title/– 猫酷次元/
 
+title/-睡海棠/
 title/-火图集/
 title/-萌物语/
 title/-爱图社/
 title/-色久爱/
 title/-丝腿网/
 title/-色欲阁/
+title/-冰火次元/
 title/-蜜思图集/
 title/-虫虫乐园/
 title/-狗妈学堂/
@@ -4092,7 +4094,6 @@ title/- 趣领域/
 *://*.cesteleague.pl/*
 *://*.lanrenbl.net/*
 *://*.f773.com/*
-*://*.douyin.com/*
 *://*.mfacg.com/*
 *://*.1heji.cn/*
 *://*.bianchiadvogados.com/*
@@ -4538,3 +4539,24 @@ title/- 趣领域/
 *://*.mttacg.com/*
 *://*.resourcesman.com/*
 *://*.jpdw.cc/*
+*://*.jfulibl.net/*
+*://*.ffsj.cc/*
+*://*.zytu.top/*
+*://*.coserba.cc/*
+*://*.titizz.com/*
+*://*.scenety.com/*
+*://*.ixzbl.com/*
+*://*.tianlanb8.cc/*
+*://*.coserpts.com/*
+*://*.molicyacg01.cc/*
+*://*.ecytt.cn/*
+*://*.okok1.best/*
+*://*.okok6.best/*
+*://*.coserfun.com/*
+*://*.yotuba.store/*
+*://*.fulimeimei1.com/*
+*://*.ee3e.com/*
+*://*.tuuwoo.com/*
+*://*.ee3e.asia/*
+*://*.madoutu.com/*
+*://*.yunu30.com/*
