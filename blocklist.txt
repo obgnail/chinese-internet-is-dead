@@ -4560,3 +4560,6 @@ title/- 趣领域/
 *://*.ee3e.asia/*
 *://*.madoutu.com/*
 *://*.yunu30.com/*
+*://*.laojin.me/*
+*://*.xccx2.com/*
+*://*.douyin.com/*
