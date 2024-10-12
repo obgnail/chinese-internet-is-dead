@@ -4049,7 +4049,7 @@ title/- 趣领域/
 *://*.uucity.vip/*
 *://*.twblogs.net/*
 *://*.volcengine.com/*
-*://*.ucloud.cn/*
+*://*.ucloud.cn/yun/ask/*
 *://*.xbeibeix.com/*
 *://*.rogwu-center.com/*
 *://*.fulimeimei.com/*
