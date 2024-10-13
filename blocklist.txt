@@ -4554,3 +4554,5 @@ title/- 趣领域/
 *://*.yuanqi.ru/*
 *://*.boosym.com/*
 *://*.kuang78.xyz/*
+*://rle.wiki/*
+*://mtf.wiki/*
