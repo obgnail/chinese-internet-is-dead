@@ -4556,3 +4556,7 @@ title/- 趣领域/
 *://*.kuang78.xyz/*
 *://rle.wiki/*
 *://mtf.wiki/*
+*://*.xianyudanji.net/*
+*://*.foxsgame.com/*
+*://*.fuyej.com/*
+*://*.mkyooo.com/*
