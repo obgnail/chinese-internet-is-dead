@@ -4560,3 +4560,8 @@ title/- 趣领域/
 *://*.foxsgame.com/*
 *://*.fuyej.com/*
 *://*.mkyooo.com/*
+*://*.cyzd.moe/*
+*://*.sparherdkonyha.hu/*
+*://*.studiophototimes.it/*
+*://*.cacciaalteshorror.it/*
+*://*.eccellenzeciociare.it/*
