@@ -4610,3 +4610,13 @@ title/- 趣领域/
 *://*.z-lib.id/*
 *://*.z-lib.io/*
 *://*.zlibrary.to/*
+*://*.zlibrary.st/*
+*://*.z-lib.is/*
+*://*.zlib.is/*
+*://*.zlib.to/*
+*://*.zlibrary.is/*
+*://*.z-lib.to/*
+*://*.acgnxm.xyz/*
+*://*.lianaiyx.com/*
+*://*.yttxcs.com/*
+*://*.meitiantv.com/*
