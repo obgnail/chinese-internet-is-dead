@@ -59,6 +59,7 @@ title/- 奶圈/
 title/- 福利/
 title/- 绝社/
 title/- 丝腿/
+title/- 咔游/
 
 title/- 鹿头次元/
 title/- 爱微社区/
@@ -1184,7 +1185,6 @@ title/- 趣领域/
 *://*.tuotu.me/*
 *://*.flbjp.org/*
 *://*.xym126.com/*
-*://*.spankbang.com/*
 *://*.hoxier.com/*
 *://*.sizhai.cc/*
 *://*.genredecor.com/*
@@ -4620,3 +4620,22 @@ title/- 趣领域/
 *://*.lianaiyx.com/*
 *://*.yttxcs.com/*
 *://*.meitiantv.com/*
+*://*.78gamesacg.com/*
+*://*.lianni.love/*
+*://103.117.122.10/*
+*://*.xingys.net/*
+*://*.acgaf.top/*
+*://*.lspuu.cc/*
+*://*.2bzj.net/*
+*://*.3h3.com/*
+*://*.huaxin.me/*
+*://*.donggua.com/*
+*://*.ssacg.net/*
+*://*.llsl.cloud/*
+*://*.j090.com/*
+*://*.by1acg.com/*
+*://*.acga149.com/*
+*://*.xacg.link/*
+*://*.wei2008.com/*
+*://wenku.csdn.net/*
+*://*.151shouji.com/*
