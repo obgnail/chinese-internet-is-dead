@@ -65,11 +65,14 @@ title/- CosTu/
 title/- COS妖/
 title/- COS君/
 title/- cos社/
+title/- COS写真/
+title/- cos王者/
 title/- COS猎人/
 title/- COS基地/
 title/- cps图库/
 title/- Cos部落/
 title/- biu图社/
+title/- 吾爱cos/
 title/- OL女郎/
 title/- E次元/
 
@@ -80,8 +83,12 @@ title/- 绝社/
 title/- 丝腿/
 title/- 咔游/
 
+title/- 深度学堂/
+title/- 倾城之恋/
 title/- 茹伊映画/
+title/- 蜜丝腿集/
 title/- 羞羞漫画/
+title/- 麻豆美女/
 title/- 御宅领域/
 title/- 猩猩私房/
 title/- 宅男之家/
@@ -133,9 +140,11 @@ title/- 绅士频道/
 title/- 帝王图包/
 title/- 爆蛋映画/
 title/- 喵元图社/
+title/- 终局英雄/
 title/- 图啦A梦/
 title/- 新美DL/
 
+title/- 刚果卖菠萝/
 title/- 绅士图书馆/
 title/- 绅士研究所/
 title/- 颜夕资源网/
@@ -157,8 +166,14 @@ title/- 猎刀手文章集合/
 title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
+title/- 帝小狼/
+title/- 风格子/
 title/- 锋软网/
+title/- 图月月/
 title/- 丝享家/
+title/- 合集吧/
+title/- 妹子图/
+title/- 艾图客/
 title/- 图夕夕/
 title/- 私房猫/
 title/- 有图酷/
@@ -167,6 +182,7 @@ title/- 妍画集/
 title/- 图碧萝/
 title/- 米图君/
 title/- 妙萌岛/
+title/- 美丝集/
 title/- 羞男社/
 title/- 在线兔/
 title/- 云奈猫/
@@ -303,6 +319,8 @@ title/- 调侃网/
 title/- 糖豆网/
 title/- 套图岛/
 title/- 趣领域/
+title/- 麻豆拍/
+title/- C次元/
 
 /collections\/vendors\?q=/
 /collections\/vendors\?constraint=/
@@ -4771,3 +4789,10 @@ title/- 趣领域/
 *://*.mengseshe.com/*
 *://*.pipiciyuan.com/*
 *://*.chhc.top/*
+*://openatomworkshop.csdn.net/*
+*://*.coppool.com/*
+*://*.asmrpu.net/*
+*://*.meitushijie.com/*
+*://*.yjcyy.com/*
+*://*.beautylegji.com/*
+*://*.xiaoerfx.com/*
