@@ -84,6 +84,11 @@ title/- 丝腿/
 title/- 咔游/
 
 title/- 深度学堂/
+title/- 紧急企划/
+title/- 尤物领域/
+title/- 绅士公社/
+title/- 红杏图社/
+title/- 蜜糖果果/
 title/- 倾城之恋/
 title/- 茹伊映画/
 title/- 蜜丝腿集/
@@ -156,6 +161,7 @@ title/- 人间水蜜桃/
 title/- 皮皮动漫社/
 title/- 学姐资源网/
 title/- 热舞集合地/
+title/- 二次元天堂/
 title/- 美图cos分享站/
 title/- 麓柰次元Ex/
 title/- FaDian.CC/
@@ -171,6 +177,7 @@ title/- 风格子/
 title/- 锋软网/
 title/- 图月月/
 title/- 丝享家/
+title/- 颜七缘/
 title/- 合集吧/
 title/- 妹子图/
 title/- 艾图客/
@@ -4796,3 +4803,16 @@ title/- C次元/
 *://*.yjcyy.com/*
 *://*.beautylegji.com/*
 *://*.xiaoerfx.com/*
+*://*.yaosiwa.com/*
+*://*.thh11.com/*
+*://*.ecytt.cc/*
+*://*.aitutang.com/*
+*://*.52cos.top/*
+*://*.pdfdz.com/*
+*://*.java1234.com/*
+*://*.zxshe.com/*
+*://*.mahailushu.com/*
+*://*.tuyatou6.com/*
+*://*.jqmcy.net/*
+*://*.qingbaoji.com/*
+*://*.6tuji.com/*
