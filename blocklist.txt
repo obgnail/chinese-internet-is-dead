@@ -71,10 +71,13 @@ title/- COS猎人/
 title/- COS基地/
 title/- cps图库/
 title/- Cos部落/
+title/- CoserMM/
 title/- biu图社/
 title/- 吾爱cos/
 title/- OL女郎/
 title/- E次元/
+title/- JK营/
+title/- Xcos/
 
 title/- 酱推/
 title/- 奶圈/
@@ -84,6 +87,7 @@ title/- 丝腿/
 title/- 咔游/
 
 title/- 深度学堂/
+title/- 绅士学堂/
 title/- 紧急企划/
 title/- 尤物领域/
 title/- 绅士公社/
@@ -125,6 +129,7 @@ title/- 猎人图社/
 title/- 少女日记/
 title/- 芳草视频/
 title/- 喵喵美图/
+title/- 偶像图库/
 title/- 美姬社区/
 title/- 新穗芽号/
 title/- 次元虫洞/
@@ -178,6 +183,9 @@ title/- 锋软网/
 title/- 图月月/
 title/- 丝享家/
 title/- 颜七缘/
+title/- 老图堂/
+title/- 美画阁/
+title/- 绅士网/
 title/- 合集吧/
 title/- 妹子图/
 title/- 艾图客/
@@ -185,6 +193,7 @@ title/- 图夕夕/
 title/- 私房猫/
 title/- 有图酷/
 title/- 微密猫/
+title/- 兔次元/
 title/- 妍画集/
 title/- 图碧萝/
 title/- 米图君/
@@ -4816,3 +4825,32 @@ title/- C次元/
 *://*.jqmcy.net/*
 *://*.qingbaoji.com/*
 *://*.6tuji.com/*
+*://*.acgaf.org/*
+*://*.wegames.me/*
+*://*.coserxz.com/*
+*://*.coserbb.com/*
+*://*.dbro.news/*
+*://*.jojoasmr.top/*
+*://*.imgeek.net/*
+*://*.tsn9.com/*
+*://*.yyg.one/*
+*://*.lss77.com/*
+*://*.hejiba.org/*
+*://*.xiunvshe.com/*
+*://*.web-doctor.cn/*
+*://*.weituba.net/*
+*://*.isblue.cc/*
+*://*.hmziyuan.com/*
+*://*.8g.fit/*
+*://*.8y.fit/*
+*://*.xiurw.com/*
+*://*.huashenchu.com/*
+*://*.166.vin/*
+*://*.tuglz.vip/*
+*://*.znzyb.com/*
+*://*.popafu.com/*
+*://*.mandengkeji.com/*
+*://*.pteman.com/*
+*://*.tdz3.com/*
+*://*.hltouzi.com/*
+*://*.wqsnxz.com/*
