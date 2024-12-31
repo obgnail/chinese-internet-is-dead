@@ -4854,3 +4854,7 @@ title/- C次元/
 *://*.tdz3.com/*
 *://*.hltouzi.com/*
 *://*.wqsnxz.com/*
+*://cloud.baidu.com/article/*
+*://101.126.136.124/*
+*://*.zzsucai.com/*
+*://*.manongbook.com/*
