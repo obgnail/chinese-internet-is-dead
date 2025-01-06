@@ -12,17 +12,20 @@ title/– 黑色猫/
 title/– 境隐社/
 title/– 御宅物语/
 title/– coser女孩/
+title/– COS君/
 title/– M图铺/
 title/– 鹿奈次元/
 title/– 猫酷次元/
 title/– 蜜糖果果/
 title/– 赛博coser/
+title/\|369写真网/
 
 title/-秀人集/
 title/-喵咪社/
 title/-美图喵/
 title/-图丽社/
 title/-集图萌/
+title/-美了么/
 title/-睡海棠/
 title/-迷耳社/
 title/-火图集/
@@ -59,12 +62,14 @@ title/- i社游戏/
 title/- i 社游戏/
 title/- 133游戏仓库/
 title/- 七七分享网/
+title/- AcgFine/
 title/- CoserMis/
 title/- JJvideo/
 title/- CosTu/
 title/- COS妖/
 title/- COS君/
 title/- cos社/
+title/- COS集/
 title/- COS写真/
 title/- cos王者/
 title/- COS猎人/
@@ -88,6 +93,7 @@ title/- 咔游/
 
 title/- 深度学堂/
 title/- 绅士学堂/
+title/- 西瓜秀图/
 title/- 紧急企划/
 title/- 尤物领域/
 title/- 绅士公社/
@@ -172,12 +178,16 @@ title/- 麓柰次元Ex/
 title/- FaDian.CC/
 title/- 369写真网/
 title/- 91秀人网/
+title/- 艺无限摄影/
 title/- 胖次猫自习室/
 title/- 猎刀手文章集合/
 title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
 title/- 帝小狼/
+title/- 歆图录/
+title/- 柒兔阁/
+title/- 妍图社/
 title/- 风格子/
 title/- 锋软网/
 title/- 图月月/
@@ -207,6 +217,7 @@ title/- 萌萝涩/
 title/- 布玛酱/
 title/- 图丫头/
 title/- 优马卿/
+title/- 蜜腿集/
 title/- 图小二/
 title/- 必萝姊/
 title/- 西图阁/
@@ -4858,3 +4869,14 @@ title/- C次元/
 *://101.126.136.124/*
 *://*.zzsucai.com/*
 *://*.manongbook.com/*
+*://*.96tuji.cn/*
+*://*.hgmsw.net/*
+*://*.9p.fit/*
+*://*.lls01.vip/*
+*://*.miaoyatu.cn/*
+*://*.ymoom.com/*
+*://*.aimoeart.com/*
+*://*.informat.cn/qa/*
+*://*.amyacg.com/*
+*://*.huwuwu.com/*
+*://*.hgacg.cc/*
