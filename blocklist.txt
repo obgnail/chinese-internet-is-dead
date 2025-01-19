@@ -61,7 +61,6 @@ title/- illusion中国/
 title/- i社游戏/
 title/- i 社游戏/
 title/- 133游戏仓库/
-title/- 七七分享网/
 title/- AcgFine/
 title/- CoserMis/
 title/- JJvideo/
@@ -77,11 +76,13 @@ title/- COS基地/
 title/- cps图库/
 title/- Cos部落/
 title/- CoserMM/
+title/- COSER湾/
 title/- biu图社/
 title/- 吾爱cos/
 title/- OL女郎/
 title/- E次元/
 title/- JK营/
+title/- OK写真/
 title/- Xcos/
 
 title/- 酱推/
@@ -93,6 +94,7 @@ title/- 咔游/
 
 title/- 深度学堂/
 title/- 绅士学堂/
+title/- 蛋碎游戏/
 title/- 西瓜秀图/
 title/- 紧急企划/
 title/- 尤物领域/
@@ -105,6 +107,7 @@ title/- 蜜丝腿集/
 title/- 羞羞漫画/
 title/- 麻豆美女/
 title/- 御宅领域/
+title/- 快萌论坛/
 title/- 猩猩私房/
 title/- 宅男之家/
 title/- 鹿头次元/
@@ -165,6 +168,7 @@ title/- 绅士图书馆/
 title/- 绅士研究所/
 title/- 颜夕资源网/
 title/- 彩虹资源网/
+title/- 七七分享网/
 title/- 老村长福利/
 title/- 莱瑞拉图集/
 title/- 探路资源网/
@@ -199,6 +203,7 @@ title/- 绅士网/
 title/- 合集吧/
 title/- 妹子图/
 title/- 艾图客/
+title/- 宅次元/
 title/- 图夕夕/
 title/- 私房猫/
 title/- 有图酷/
@@ -206,6 +211,7 @@ title/- 微密猫/
 title/- 兔次元/
 title/- 妍画集/
 title/- 图碧萝/
+title/- 柒美图/
 title/- 米图君/
 title/- 妙萌岛/
 title/- 美丝集/
@@ -4880,3 +4886,20 @@ title/- C次元/
 *://*.amyacg.com/*
 *://*.huwuwu.com/*
 *://*.hgacg.cc/*
+*://*.hhgfbi.com/*
+*://*.teaeee.com/*
+*://*.p8888.net/*
+*://*.dzscpx.com/*
+*://*.acgoo.com/*
+*://*.xsharing.org/*
+*://*.yuzhai1.me/*
+*://*.kkgacg.pro/*
+*://216.180.232.90/*
+*://*.wqsnyx2.com/*
+*://*.lutoucy.com/*
+*://*.ysblcac.vip/*
+*://*.acgovo.live/*
+*://*.ymlt.vip/*
+*://*.xuniwen.com/*
+*://*.aywd.vip/*
+*://*.wzbonny.com/*
