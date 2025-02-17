@@ -193,6 +193,8 @@ title/- 歆图录/
 title/- 柒兔阁/
 title/- 妍图社/
 title/- 风格子/
+title/- 聚合库/
+title/- 日刷网/
 title/- 锋软网/
 title/- 图月月/
 title/- 丝享家/
@@ -4903,3 +4905,8 @@ title/- C次元/
 *://*.xuniwen.com/*
 *://*.aywd.vip/*
 *://*.wzbonny.com/*
+*://*.cosermm.com/*
+*://*.mmnn6.top/*
+*://*.minpic.org/*
+*://*.ghacg.com/*
+*://*.zy0870.com/*
