@@ -4191,7 +4191,7 @@ title/- C次元/
 *://*.cmdw.top/*
 *://*.uucity.vip/*
 *://*.twblogs.net/*
-*://*.volcengine.com/*
+*://developer.volcengine.com/articles/*
 *://*.ucloud.cn/yun/ask/*
 *://*.xbeibeix.com/*
 *://*.rogwu-center.com/*
