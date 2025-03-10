@@ -4910,3 +4910,6 @@ title/- C次元/
 *://*.minpic.org/*
 *://*.ghacg.com/*
 *://*.zy0870.com/*
+*://*.tomssir.com/*
+*://*.0101shop.com/*
+*://bk.taobao.com/*
