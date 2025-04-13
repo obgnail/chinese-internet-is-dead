@@ -4913,3 +4913,13 @@ title/- C次元/
 *://*.tomssir.com/*
 *://*.0101shop.com/*
 *://bk.taobao.com/*
+*://*.dancihu.com/*
+*://*.asmrqz.com/*
+*://*.asmrgc.com/*
+*://*.coseryes.com/*
+*://*.zhaiheji.com/*
+*://*.huaglad.com/*
+*://*.asmrqy.com/*
+*://*.jitula.com/*
+*://*.zhouyanx.com/*
+*://*.youmihui1.com/*
