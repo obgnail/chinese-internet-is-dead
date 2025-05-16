@@ -188,6 +188,7 @@ title/- 猎刀手文章集合/
 title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
+title/- 舞艺吧/
 title/- 帝小狼/
 title/- 歆图录/
 title/- 柒兔阁/
@@ -4923,3 +4924,11 @@ title/- C次元/
 *://*.jitula.com/*
 *://*.zhouyanx.com/*
 *://*.youmihui1.com/*
+*://*.ucloud.cn/yun/*.html
+*://*.idoing3d.com/*
+*://*.cosplaymi.com/*
+*://*.wp0.cc/*
+*://*.mys2023.com/*
+*://*.rewuba.org/*
+*://*.rwzyz.com/*
+*://*.worktile.com/kb/ask/*
