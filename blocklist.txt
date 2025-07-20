@@ -38,6 +38,7 @@ title/– 图碧萝/
 title/-冰火次元/
 title/-蜜思图集/
 title/-虫虫乐园/
+title/-蜜桃啵啵/
 title/-狗妈学堂/
 title/-果冻传媒/
 title/-撸管神器/
@@ -86,6 +87,7 @@ title/- OK写真/
 title/- Xcos/
 
 title/- 酱推/
+title/- 丝域/
 title/- 奶圈/
 title/- 福利/
 title/- 绝社/
@@ -149,6 +151,7 @@ title/- 福利大巴/
 title/- 粉色佳人/
 title/- 超能胖次/
 title/- 艾萝伊斯/
+title/- 宅宅领域/
 title/- 御宅部落/
 title/- 美女套图/
 title/- 丝格格吧/
@@ -189,6 +192,11 @@ title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
 title/- 舞艺吧/
+title/- 图集侠/
+title/- 影语阁/
+title/- 迷耳社/
+title/- 美图岛/
+title/- 宅特曼/
 title/- 帝小狼/
 title/- 歆图录/
 title/- 柒兔阁/
@@ -4969,3 +4977,5 @@ title/- C次元/
 *://*.hejiquan.cc/*
 *://*.huiqiaotang.com/*
 *://*.1905.com/*
+*://*.gao7.com/*
+*://*.oryoy.com/*
