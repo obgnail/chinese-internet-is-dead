@@ -389,6 +389,7 @@ title/- C次元/
 /(.+%E2%98%80%EF%B8%8F)+/
 /(.+%E2%9D%A4%EF%B8%8F%E2%80%8D)+/
 
+*://*.csdn.net/*
 *://*.icode.best/*
 *://*.chuzhounews.com/*
 *://*.ddkktxy.xyz/*
@@ -4979,3 +4980,6 @@ title/- C次元/
 *://*.1905.com/*
 *://*.gao7.com/*
 *://*.oryoy.com/*
+*://*.veerawines.com/*
+*://*.gushiwen.cn/*
+*://*.zuyu123.cn/*
