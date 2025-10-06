@@ -4983,3 +4983,5 @@ title/- C次元/
 *://*.veerawines.com/*
 *://*.gushiwen.cn/*
 *://*.zuyu123.cn/*
+*://216.180.232.93/*
+*://*.oryoy.com/*
