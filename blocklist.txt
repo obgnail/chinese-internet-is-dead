@@ -54,6 +54,7 @@ title/-西西资源官网/
 title/-久夕精品视频/
 title/-小姐姐資源站/
 title/-神秘贝壳岛漫画/
+title/– 你想要的样子我都有/
 
 title/- biuACG论坛/
 title/- Titi 社/
@@ -191,6 +192,7 @@ title/- 猎刀手文章集合/
 title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
+title/- 微图吧/
 title/- 舞艺吧/
 title/- 图集侠/
 title/- 影语阁/
@@ -217,6 +219,7 @@ title/- 艾图客/
 title/- 宅次元/
 title/- 图夕夕/
 title/- 私房猫/
+title/- 稀图社/
 title/- 有图酷/
 title/- 微密猫/
 title/- 兔次元/
@@ -1730,7 +1733,6 @@ title/- C次元/
 *://*.asmr555.xyz/*
 *://*.18moe.net/*
 *://*.18moe.org/*
-*://*.download.csdn.net/*
 *://*.wuzhuiso.com/*
 *://*.365seal.com/*
 *://*.4k8k.xyz/*
@@ -3433,7 +3435,6 @@ title/- C次元/
 *://*.0i10li1010.xyz/*
 *://*.fumepulp.com/*
 *://*.sbnc2p.xyz/*
-*://*.csdn.net/tags/*
 *://*.zhainanxw2.top/*
 *://*.kalasatamankummeli.fi/*
 *://*.carvideo.lv/*
@@ -4804,7 +4805,6 @@ title/- C次元/
 *://*.acga149.com/*
 *://*.xacg.link/*
 *://*.wei2008.com/*
-*://wenku.csdn.net/*
 *://*.151shouji.com/*
 *://*.shenmoyisi.com/*
 *://*.youzirou.com/*
@@ -4835,7 +4835,6 @@ title/- C次元/
 *://*.mengseshe.com/*
 *://*.pipiciyuan.com/*
 *://*.chhc.top/*
-*://openatomworkshop.csdn.net/*
 *://*.coppool.com/*
 *://*.asmrpu.net/*
 *://*.meitushijie.com/*
@@ -4985,3 +4984,47 @@ title/- C次元/
 *://*.zuyu123.cn/*
 *://216.180.232.93/*
 *://*.oryoy.com/*
+*://*.gm44.cn/*
+*://*.jiligamefun.com/*
+*://m.baidu.com/vsearch/*
+*://*.kidsdown.com/*
+*://tvgame.taobao.com/*
+*://*.flyy.cn/*
+*://*.xiaomoxz.com/*
+*://*.comcw.cn/*
+*://*.xiaoduxz.com/*
+*://*.yanlutong.com/*
+*://*.yz3l.com/*
+*://*.steampowere.shop/*
+*://*.jxdown.com/*
+*://*.tpfangchan.com/*
+*://*.fronty.eu/*
+*://*.luolcy.com/*
+*://*.vkxiazai.com/*
+*://*.nuo5.com/*
+*://23.224.30.202/*
+*://*.file-static.com/*
+*://*.aoaou.com/*
+*://*.meimog.com/*
+*://*.paomianz.com/*
+*://*.xsdixiao.com/*
+*://*.liaorenwu.com/*
+*://*.llhie.com/*
+*://*.yyg.app/*
+*://*.lyyrw.com/*
+*://*.sifangmao.me/*
+*://*.leshetu.net/*
+*://*.zisese.com/*
+*://*.7h9u.com/*
+*://*.xxh222.com/*
+*://*.ylts.xyz/*
+*://*.taotucun.com/*
+*://*.kaosigu.com/*
+*://*.cteman.com/*
+*://*.miaoyuantang.info/*
+*://*.fengzhilingyu.com/*
+*://*.miaoyinshe.com/*
+*://*.acg.bi/*
+*://*.ciy8.cn/*
+*://*.huyingshe.com/*
+*://*.hehehehehe.cn/*
