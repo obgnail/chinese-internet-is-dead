@@ -394,6 +394,7 @@ title/- C次元/
 /(.+%E2%98%80%EF%B8%8F)+/
 /(.+%E2%9D%A4%EF%B8%8F%E2%80%8D)+/
 
+*://*.csdnimg.cn/*
 *://*.csdn.net/*
 *://*.icode.best/*
 *://*.chuzhounews.com/*
@@ -5050,3 +5051,5 @@ title/- C次元/
 *://*.91xiezhen.com/*
 *://*.hualincyxks.com/*
 *://*.senluocaituanvip.com/*
+*://*.igacg.com/*
+*://*.xyouacg.com/*
