@@ -5086,3 +5086,4 @@ title/- C次元/
 *://*.cosersilo.com/*
 *://*.cosjidipro.com/*
 *://*.weimimao.cc/*
+*://*.geek-blogs.com/blog/*
