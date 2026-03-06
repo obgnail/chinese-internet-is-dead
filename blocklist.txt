@@ -70,6 +70,7 @@ title/- CosTu/
 title/- COS妖/
 title/- COS君/
 title/- cos社/
+title/- cos 社/
 title/- COS集/
 title/- Cos写真/
 title/- COS写真/
@@ -5087,3 +5088,9 @@ title/- C次元/
 *://*.cosjidipro.com/*
 *://*.weimimao.cc/*
 *://*.geek-blogs.com/blog/*
+*://*.mengtuji.com/*
+*://*.tzyjs.net/*
+*://*.lyg84.com/*
+*://*.modstart.com/p/*
+*://*.chengleegame.com/*
+*://*.luyouji.me/*
