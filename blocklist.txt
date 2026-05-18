@@ -196,6 +196,7 @@ title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
 title/- 微图吧/
+title/- 火图岛/
 title/- 伊图恋/
 title/- 萌图集/
 title/- 萌想阁/
@@ -5094,3 +5095,6 @@ title/- C次元/
 *://*.modstart.com/p/*
 *://*.chengleegame.com/*
 *://*.luyouji.me/*
+*://*.aiqixie.com/*
+*://*.gman.cc/*
+*://*.5yuan.org/*
