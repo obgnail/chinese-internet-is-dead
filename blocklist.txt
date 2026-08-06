@@ -61,6 +61,7 @@ title/- Titi 社/
 title/- icoser/
 title/- illusion中国/
 title/- i社游戏/
+title/- I社游戏/
 title/- i 社游戏/
 title/- 133游戏仓库/
 title/- AcgFine/
@@ -402,7 +403,9 @@ title/- C次元/
 /(.+%E2%9D%A4%EF%B8%8F%E2%80%8D)+/
 
 *://*.csdn.net/*
+*://*.csdn.com/*
 *://*.csdnimg.cn/*
+*://*.oschina.net/*
 *://*.icode.best/*
 *://*.chuzhounews.com/*
 *://*.ddkktxy.xyz/*
@@ -4248,7 +4251,6 @@ title/- C次元/
 *://*.iteye.com/*
 *://waptv.sogou.com/*
 *://*.juankong.com/*
-*://*.oschina.net/*
 *://49.235.250.38/*
 *://*.yunqicn.com/*
 *://*.1024sky.cn/*
@@ -5098,3 +5100,17 @@ title/- C次元/
 *://*.aiqixie.com/*
 *://*.gman.cc/*
 *://*.5yuan.org/*
+*://www.423down.com/*
+*://comate.baidu.com/zh/page/*
+*://www.nryxone.com/*
+*://*.tpn2n.com/*
+*://www.acgkoi.com/*
+*://www.canhuashe.net/*
+*://www.gamexbase.com/*
+*://lsptu33.com/*
+*://*.kuliyx.com/*
+*://*.233leyuan.com/*
+*://*.isheishe.com/*
+*://*.moelyu.com/*
+*://*.geimushe.com/*
+*://*.shitwk.cn/*
